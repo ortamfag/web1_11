@@ -45,6 +45,9 @@ $(document).ready(function(){
         $(".focus3_2").fadeToggle(3000);
     })
 
+    alert("Метод html() в консоли")
+    console.log($( "div").html());
+
 
 
 
