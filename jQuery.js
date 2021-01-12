@@ -48,6 +48,14 @@ $(document).ready(function(){
     alert("Метод html() в консоли")
     console.log($( "div").html());
 
+    $( function() {
+        $( "#accordion" ).accordion();
+      } );
+
+    $( function() {
+        $( "#draggable" ).draggable();
+  } );
+
 
 
 
