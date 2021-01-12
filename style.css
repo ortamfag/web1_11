@@ -322,3 +322,56 @@ th {
   color:blue;
   
 }
+
+#nextslide, #slide, #nextslide1,#slide1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#nextslide, #nextslide1 {
+  padding: 50px;
+  display: none;
+}
+
+.focus, .focus2{
+  margin-left: 350px;
+  width: 200px;
+  height: 200px;
+  background-color: #000000;
+  border-radius: 30pt;
+}
+
+.descriptionfocus{
+  text-align: center;
+  font-size: large;
+}
+
+.focus3 {
+  background-color: #00b56a;
+  border-radius: 20px;
+  width: 80px;
+  height: 80px;
+  margin-left:30px;
+}
+
+.focus3_1 {
+  background-color: #191654;
+  border-radius: 20px;
+  width: 80px;
+  height: 80px;
+  margin-left:30px;
+}
+
+.focus3_2 {
+  background-color: #6666CC;
+  border-radius: 20px;
+  width: 80px;
+  height: 80px;
+  margin-left:30px;
+}
+
+.last_anim{
+  margin-left:30px;
+}
